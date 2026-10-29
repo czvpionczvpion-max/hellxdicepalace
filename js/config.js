@@ -4,7 +4,7 @@ const CONFIG = {
 
   partner: {
     name: 'DICE PALACE',
-    siteUrl: 'https://dcpc.myloric.com/?mid=393459_2263943',
+    siteUrl: 'https://dcpc.kronvax.com/?mid=393459_2263943',
     logoPath: 'assets/logo-animated.webp',
     promoCode: 'HELLBOY',
   },
